@@ -1,1 +1,1 @@
-Compile main.c using GCC and create a folder called "Super_music" here and put the music in it
+Compile main.c using GCC and create a folder named "Super_music" here and put your music in it
